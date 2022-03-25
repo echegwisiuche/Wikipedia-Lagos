@@ -1,0 +1,36 @@
+.Wikipedia{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Wikipedia h1{
+    text-align: right; font-size: small; font-weight: 100;
+}
+.flex-container{
+    display: flex;
+}
+.Wikipedia .flex-container div h2{
+    font-size: 15px; font-weight: 100;
+}
+.Wikipedia .flex-container div h3{
+    font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: start;
+}
+.Wikipedia .flex-container .Menu{
+    border-right: solid 1px skyblue;
+}
+.Wikipedia .flex-container .Card{
+    border: 1px solid black; text-align: center;
+}
+.Wikipedia .flex-container .Card h4{
+font-weight: 100px;
+}
+.Wikipedia .flex-container .Card h5{
+    font-weight: 1;
+    }
+.Wikipedia .flex-container .Card h6{
+    font-weight: 100px; border: solid 1px; border-spacing: 1px ; border-color: black; background-color: #cddeff; font-size: small;
+    }
+.Card .image{
+    margin-block: 100px;
+}
+.Wikipedia .flex-container .Menu{
+    background-color: #dddddd;
+}
